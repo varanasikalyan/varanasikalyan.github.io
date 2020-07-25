@@ -1,10 +1,10 @@
-# Tale
+# findings
 
-[![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
+[![Gem Version](https://badge.fury.io/rb/findings.svg)](https://badge.fury.io/rb/findings)
 
-Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
+findings is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://varanasikalyan.github.io/findings/).
 
-![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
+![findings screenshot](http://i.imgur.com/pXZrtmo.png)
 
 ## Features
 - Easy installation
@@ -26,7 +26,7 @@ There are 3 ways to install this theme
 1. Add this line to your `Gemfile`:
 
 ```ruby
-gem "tale"
+gem "findings"
 ```
 
 2. Install the theme's gems and dependencies:
@@ -38,7 +38,7 @@ $ bundle
 3. In `_config.yml` add these lines:
 
 ```yaml
-theme:      tale
+theme:      findings
 
 permalink:  /:year-:month-:day/:title
 paginate:   5
@@ -71,7 +71,7 @@ $ bundle
 3. In `_config.yml` add these lines:
 
 ```yaml
-remote_theme: chesterhow/tale
+remote_theme: varanasikalyan/findings
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
@@ -94,12 +94,12 @@ layout: post
 ### Fork method
 1. Fork this repository
 
-2. Delete the unnecessary files/folders: `CODE_OF_CONDUCT.md`, `LICENSE`, `README.md`, `tale.gemspec`
+2. Delete the unnecessary files/folders: `CODE_OF_CONDUCT.md`, `LICENSE`, `README.md`, `findings.gemspec`
 
 3. Delete the `baseurl` line in `_config.yml`:
 
 ```yaml
-baseurl:  "/tale"   # delete this line
+baseurl:  "/findings"   # delete this line
 ```
 
 ## Usage
@@ -114,10 +114,10 @@ $ bundle exec jekyll serve
 And you're all set! Head over to http://127.0.0.1:4000/ to see your site in action.
 
 ### Enabling Comments
-Comments are disabled by default. To enable them, look for the following line in `_config.yml` and change `jekyll-tale` to your site's Disqus id.
+Comments are disabled by default. To enable them, look for the following line in `_config.yml` and change `jekyll-findings` to your site's Disqus id.
 
 ```yml
-disqus: jekyll-tale
+disqus: jekyll-findings
 ```
 
 Next, add `comments: true` to the YAML front matter of the posts which you would like to enable comments for.
@@ -126,4 +126,4 @@ Next, add `comments: true` to the YAML front matter of the posts which you would
 Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
 ## License
-See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
+See [LICENSE](https://github.com/varanasikalyan/findings/blob/master/LICENSE)
