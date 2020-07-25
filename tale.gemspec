@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "Findings"
+  spec.name          = "tale"
   spec.version       = "0.2.0"
   spec.authors       = ["Fed Express"]
   spec.email         = ["varanasikalyan@gmail.com"]
 
-  spec.summary       = %q{Findings are my stories.}
-  spec.homepage      = "https://github.com/varanasikalyan/Findings"
+  spec.summary       = %q{Findings my stories.}
+  spec.homepage      = "https://github.com/varanasikalyan"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
