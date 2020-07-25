@@ -5,7 +5,7 @@ author: "Chester"
 comments: true
 ---
 
-findings is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/varanasikalyan/) for a friend who writes short stories.
+findings are my stories. It is designed and developed by [myself](https://github.com/varanasikalyan/) for a friend who writes short stories.
 
 ## findings features
 - Compatible with GitHub Pages
