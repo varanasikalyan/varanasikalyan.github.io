@@ -1,4 +1,4 @@
-# findings
+# Findings
 
 [![Gem Version](https://badge.fury.io/rb/findings.svg)](https://badge.fury.io/rb/findings)
 
