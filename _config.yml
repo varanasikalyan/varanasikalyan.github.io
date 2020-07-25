@@ -25,6 +25,7 @@ sass:
 
 # Gems
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
@@ -44,3 +45,5 @@ theme:      tale
 
 permalink:  /:year-:month-:day/:title
 paginate:   5
+
+remote_theme: chesterhow/tale
