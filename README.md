@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/findings.svg)](https://badge.fury.io/rb/findings)
 
-findings is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://varanasikalyan.github.io/findings/).
+findings is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://varanasikalyan.github.io/).
 
 ![findings screenshot](http://i.imgur.com/pXZrtmo.png)
 
