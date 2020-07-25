@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          Findings
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
 url:            "https://varanasikalyan.github.io/"
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Fed Express
   url:          https://github.com/varanasikalyan/varanasikalyan.github.io
-  email:        chesterhow@gmail.com
+  email:        varanasikalyan@gmail.com
 
 # Build settings
 markdown:       kramdown
