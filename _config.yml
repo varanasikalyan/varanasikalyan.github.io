@@ -25,6 +25,7 @@ sass:
 
 # Gems
 plugins:
+  - jekyll
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
