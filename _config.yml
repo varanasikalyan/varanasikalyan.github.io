@@ -1,5 +1,5 @@
 # Site settings
-title:          Findings
+title:          = Findings
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
 url:            "https://varanasikalyan.github.io/"
